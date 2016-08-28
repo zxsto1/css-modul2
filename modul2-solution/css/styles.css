@@ -18,12 +18,12 @@ h1 {
   }
 
 p {
-  font-family: Helvetica, 
+  font-family: Helvetica; 
  color: black;
   font-weight: bold;
   border: 1px solid black;
   text-align: left;
-  height: 220px;
+  height: 230px;
   width: 100%;
   background-color: gray;
   overflow: auto;
