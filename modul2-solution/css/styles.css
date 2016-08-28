@@ -2,29 +2,28 @@
   box-sizing: border-box;
 margin: 0;
 padding: 0;
+
+
 }
 
 body {
 
-font-size: 12px; 
-font-family: Helvetica, sans-serif, Arial
-color: black;
+font-size: 16px; 
 }
 
 h1 {
   text-align: center;
   margin: 50px;
+  font-size: 1.75em;
   }
 
 p {
-
+  font-family: Helvetica, 
+ color: black;
   font-weight: bold;
-   
   border: 1px solid black;
-  
-  
   text-align: left;
-  height: 150px;
+  height: 200px;
   width: 100%;
   background-color: gray;
   overflow: auto;
@@ -172,7 +171,7 @@ div#container {
 }
 
 #p1 {
-	font-size: 15px; 
+	font-size: 1.25em; 
   background-color: violet;
   position: absolute;
   width: 100px;
@@ -187,7 +186,7 @@ padding: 0;
  }
 
 #p2 {
-	font-size: 15px; 
+	font-size: 1.25em; 
   background-color: red;
   position: absolute;
   width: 100px;
@@ -201,7 +200,7 @@ padding: 0;
 }
 
 #p3 {
-	font-size: 15px; 
+	font-size: 1.25em; 
   background-color: yellow;
   position: absolute;
   width: 100px;
