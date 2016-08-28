@@ -4,19 +4,25 @@ margin: 0;
 padding: 0;
 }
 
+body {
+
+font-size: 12px; 
+font-family: Helvetica, sans-serif, Arial
+color: black;
+}
+
 h1 {
   text-align: center;
   margin: 50px;
-  
-}
+  }
 
 p {
 
   font-weight: bold;
-  font-size: 12px; 
+   
   border: 1px solid black;
-  font-family: Helvetica;
-  color: black;
+  
+  
   text-align: left;
   height: 150px;
   width: 100%;
@@ -26,9 +32,6 @@ p {
   
 }
 
-.row {
-  width: 100%;
-}
 
 /********** Desktop **********/
 @media (min-width: 992px) {
